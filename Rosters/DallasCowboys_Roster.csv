@@ -1,0 +1,93 @@
+Pos,Name,Number,Rating,Ranking,Height,Weight,Age,Birthday,Exp.,Drafted,Draft Round,Draft Pick,College
+QB, Dak Prescott,4,90,#6 QB,"6'2""",238,28,7/29/93,7,2016,4,135,Mississippi State
+QB, Will Grier,15,67,#44 QB,"6'1""",220,27,4/3/95,4,2019,3,100,West Virginia
+QB, Ben DiNucci,17,67,#44 QB,"6'3""",209,25,11/24/96,3,2020,7,231,James Madison
+QB, Cooper Rush,10,67,#44 QB,"6'3""",225,28,11/21/93,5,2017,,,Central Michigan
+RB, Ezekiel Elliott,21,87,#11 RB,"6'0""",228,26,7/22/95,7,2016,1,4,Ohio State
+RB, Tony Pollard,20,79,#32 RB,"6'0""",209,25,4/30/97,4,2019,4,128,Memphis
+RB, Ryan Nall,35,67,#98 RB,"6'2""",239,26,12/27/95,4,2018,,,Oregon State
+RB, JaQuan Hardy,37,67,#98 RB,"5'10""",225,24,12/31/97,1,2021,,,Tiffin
+RB, Rico Dowdle,23,67,#98 RB,"6'0""",215,24,1/6/98,3,2020,,,South Carolina
+RB, Aaron Shampklin,,67,#98 RB,"5'10""",195,,,0,2022,,,Harvard
+RB, Malik Davis,,67,#98 RB,"5'10""",210,,,0,2022,,,Florida
+FB, Nick Ralston,46,67,#13 FB,"6'0""",237,25,11/10/96,2,2021,,,Louisiana-Lafayette
+WR, CeeDee Lamb,88,85,#20 WR,"6'2""",189,23,4/8/99,3,2020,1,17,Oklahoma
+WR, Michael Gallup,13,79,#50 WR,"6'1""",198,26,3/4/96,5,2018,3,81,Colorado State
+WR, James Washington,83,77,#63 WR,"5'11""",213,26,4/2/96,5,2018,2,60,Oklahoma State
+WR, Noah Brown,85,70,#132 WR,"6'2""",225,26,1/6/96,6,2017,7,239,Ohio State
+WR, Jalen Tolbert,,67,#165 WR,"6'1""",195,23,2/27/99,0,2022,3,88,South Alabama
+WR, Ty Fryfogle,,67,#165 WR,"6'2""",205,23,1/28/99,0,2022,,,Indiana
+WR, T.J. Vasher,16,67,#165 WR,"6'5""",210,23,8/29/98,1,2021,,,Texas Tech
+WR, Simi Fehoko,81,67,#165 WR,"6'3""",220,24,11/5/97,2,2021,5,179,Stanford
+WR, Jaquarii Roberson,,67,#165 WR,"6'1""",182,23,7/29/98,0,2022,,,Wake Forest
+WR, Dontario Drummond,,67,#165 WR,"6'1""",220,24,8/22/97,0,2022,,,Mississippi
+WR, Dennis Houston,,67,#165 WR,"6'2""",205,,,0,2022,,,Western Illinois
+WR, Brandon Smith,80,67,#165 WR,"6'2""",220,23,12/10/98,1,2021,,,Iowa
+TE, Dalton Schultz,86,79,#19 TE,"6'5""",244,25,7/11/96,5,2018,4,137,Stanford
+TE, Jeremy Sprinkle,87,69,#52 TE,"6'5""",252,27,8/10/94,6,2017,5,154,Arkansas
+TE, Peyton Hendershot,,67,#61 TE,"6'4""",254,23,4/23/99,0,2022,,,Indiana
+TE, Jake Ferguson,,67,#61 TE,"6'5""",244,23,1/18/99,0,2022,4,129,Wisconsin
+TE, Sean McKeon,84,67,#61 TE,"6'5""",238,24,12/28/97,3,2020,,,Michigan
+TE, Ian Bunting,89,67,#61 TE,"6'7""",255,26,2/10/96,2,2019,,,California
+C, Tyler Biadasz,63,72,#21 C,"6'3""",316,24,11/20/97,3,2020,4,146,Wisconsin
+C, Braylon Jones,62,67,#28 C,"6'3""",301,24,2/10/98,1,2021,,,Houston
+OL, James Empey,,67,#21 OL,"6'4""",305,25,10/27/96,0,2022,,,Brigham Young
+OL, Matt Waletzko,,67,#21 OL,"6'7""",305,22,12/15/99,0,2022,5,155,North Dakota
+OL, Alec Lindstrom,,67,#21 OL,"6'3""",298,23,7/7/98,0,2022,,,Boston College
+OL, Tyler Smith,73,67,#21 OL,"6'6""",332,21,4/3/01,0,2022,1,24,Tulsa
+OL, Amon Simon,,67,#21 OL,"6'5""",303,,,0,2022,,,Texas A&M Commerce
+G, Zack Martin,70,96,#1 G,"6'4""",315,31,11/20/90,9,2014,1,16,Notre Dame
+G, Matt Farniok,68,67,#44 G,"6'5""",311,24,9/26/97,2,2021,7,238,Nebraska
+G, Connor McGovern,66,67,#44 G,"6'5""",308,24,11/3/97,4,2019,3,90,Penn State
+OT, Tyron Smith,77,94,#3 OT,"6'5""",320,31,12/12/90,12,2011,1,9,USC
+OT, Terence Steele,78,71,#47 OT,"6'6""",310,24,6/4/97,3,2020,,,Texas Tech
+OT, Isaac Alarcón,60,67,#68 OT,"6'7""",320,23,7/27/98,2,2020,,,Monterrey Tech (Mexico)
+OT, Josh Ball,75,67,#68 OT,"6'8""",304,23,5/15/98,2,2021,4,138,Marshall
+OT, Aviante Collins,76,67,#68 OT,"6'4""",292,29,4/21/93,5,2017,,,TCU
+DL, Mika Tafua,,67,#13 DL,"6'3""",249,,,0,2022,,,Utah
+DL, John Ridgeway,,67,#13 DL,"6'6""",320,23,5/7/99,0,2022,5,178,Arkansas
+DT, Neville Gallimore,96,72,#32 DT,"6'2""",302,25,1/17/97,3,2020,3,82,Oklahoma
+DT, Osa Odighizuwa,97,72,#32 DT,"6'2""",280,23,8/13/98,2,2021,3,75,UCLA
+DT, Trysten Hill,72,72,#32 DT,"6'3""",308,24,3/25/98,4,2019,2,58,Central Florida
+DT, Quinton Bohanna,98,67,#57 DT,"6'4""",360,23,3/16/99,2,2021,6,192,Kentucky
+DT, Austin Faoliu,58,67,#57 DT,"6'3""",292,23,1/9/99,1,2021,,,Oregon
+DT, Josiah Bronson,94,67,#57 DT,"6'3""",300,24,7/3/97,2,2021,,,Washington
+DE, DeMarcus Lawrence,90,88,#9 DE,"6'3""",265,30,4/28/92,9,2014,2,34,Boise State
+DE, Dorance Armstrong,92,71,#60 DE,"6'4""",255,24,6/10/97,5,2018,4,116,Kansas
+DE, Chauncey Golston,99,71,#60 DE,"6'5""",268,24,2/10/98,2,2021,3,84,Iowa
+DE, Tarell Basham,93,70,#70 DE,"6'4""",266,28,3/18/94,6,2017,3,80,Ohio
+DE, Carlos Watkins,91,70,#70 DE,"6'3""",305,28,12/5/93,6,2017,4,142,Clemson
+DE, Sam Williams,,67,#97 DE,"6'4""",265,23,3/31/99,0,2022,2,56,Mississippi
+DE, Big Kat Bryant,,67,#97 DE,"6'5""",245,23,1/4/99,0,2022,,,Central Florida
+LB, Micah Parsons,11,85,#1 LB,"6'3""",245,22,5/26/99,2,2021,1,12,Penn State
+LB, Jabril Cox,14,69,#33 LB,"6'3""",233,24,4/16/98,2,2021,4,115,LSU
+LB, Aaron Hansford,,67,#42 LB,"6'3""",240,24,2/23/98,0,2022,,,Texas A&M
+LB, Devin Harper,,67,#42 LB,"6'0""",235,23,5/13/98,0,2022,6,193,Oklahoma State
+LB, Storey Jackson,,67,#42 LB,"6'2""",225,,,0,2022,,,Liberty
+OLB, Leighton Vander Esch,55,78,#20 OLB,"6'4""",256,26,2/8/96,5,2018,1,19,Boise State
+OLB, Dante Fowler Jr.,56,73,#40 OLB,"6'3""",255,27,8/3/94,8,2015,1,3,Florida
+OLB, Damone Clark,,67,#64 OLB,"6'3""",240,21,6/28/00,0,2022,5,176,LSU
+OLB, Devante Bond,51,67,#64 OLB,"6'1""",236,28,7/3/93,6,2016,6,183,Oklahoma
+ILB, Luke Gifford,57,67,#46 ILB,"6'3""",243,26,8/28/95,4,2019,,,Nebraska
+CB, Trevon Diggs,7,84,#17 CB,"6'2""",195,24,9/20/97,3,2020,2,51,Alabama
+CB, Anthony Brown,3,75,#68 CB,"5'11""",196,28,12/15/93,7,2016,6,189,Purdue
+CB, Jourdan Lewis,2,75,#68 CB,"5'10""",195,26,8/31/95,6,2017,3,92,Michigan
+CB, Kelvin Joseph,1,74,#81 CB,"6'1""",192,21,11/11/00,2,2021,2,44,Kentucky
+CB, Nahshon Wright,25,68,#130 CB,"6'4""",185,23,9/23/98,2,2021,3,99,Oregon State
+CB, Kyron Brown,26,67,#142 CB,"6'1""",195,25,5/26/96,4,2019,,,Akron
+CB, Israel Mukuamu,24,67,#142 CB,"6'4""",205,22,11/28/99,2,2021,6,227,South Carolina
+CB, Isaac Taylor-Stuart,,67,#142 CB,"6'2""",200,22,10/25/99,0,2022,,,USC
+CB, C.J. Goodwin,29,67,#142 CB,"6'3""",190,32,2/4/90,7,2014,,,California (PA)
+CB, DaRon Bland,,67,#142 CB,"6'1""",22,22,7/12/99,0,2022,5,167,Fresno State
+DB, Juanyeh Thomas,,67,#10 DB,"6'3""",217,21,6/24/00,0,2022,,,Georgia Tech
+DB, Markquese Bell,,67,#10 DB,"6'3""",205,,,0,2022,,,Florida A&M
+DB, Quandre Mosely,,67,#10 DB,"6'2""",185,,,0,2022,,,Kentucky
+SS, La'Kendrick Van Zandt,,67,#45 SS,"6'1""",206,,,0,2022,,,TCU
+FS, Jayron Kearse,27,77,#13 FS,"6'4""",215,28,2/11/94,8,2016,7,244,Clemson
+FS, Malik Hooker,28,75,#21 FS,"6'1""",214,26,4/2/96,6,2017,1,15,Ohio State
+S, Donovan Wilson,6,76,#10 S,"6'0""",204,27,2/21/95,4,2019,6,213,Texas A&M
+S, Tyler Coyle,39,67,#27 S,"6'1""",209,23,11/14/98,1,2021,,,Purdue
+LS, Jake McQuaide,44,,,"6'2""",247,34,12/7/87,12,2011,,,Ohio State
+K, Chris Naggar,19,67,#33 K,"5'11""",193,24,12/9/97,1,2021,,,Southern Methodist
+K, Jonathan Garibay,,67,#33 K,"6'1""",215,,,0,2022,,,Texas Tech
+P, Bryan Anger,5,81,#5 P,"6'3""",202,33,10/6/88,11,2012,3,70,California

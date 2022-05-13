@@ -1,0 +1,67 @@
+Pos,Name,Number,Rating,Ranking,Height,Weight,Age,Birthday,Exp.,Drafted,Draft Round,Draft Pick,College
+QB, Tom Brady,12,99,#1 QB,"6'4""",225,44,8/3/77,23,2000,6,199,Michigan
+QB, Kyle Trask,2,67,#43 QB,"6'5""",240,24,3/6/98,2,2021,2,64,Florida
+QB, Ryan Griffin,4,67,#43 QB,"6'5""",210,32,11/17/89,8,2013,,,Tulane
+QB, Blaine Gabbert,11,67,#43 QB,"6'4""",235,32,10/15/89,12,2011,1,10,Missouri
+RB, Leonard Fournette,7,83,#18 RB,"6'0""",228,27,1/18/95,6,2017,1,4,LSU
+RB, Giovani Bernard,25,78,#37 RB,"5'9""",208,30,11/22/91,10,2013,2,37,North Carolina
+RB, Ke'Shawn Vaughn,21,72,#66 RB,"5'10""",214,24,5/4/97,3,2020,3,76,Vanderbilt
+RB, Kenjon Barner,38,67,#100 RB,"5'9""",195,33,4/28/89,9,2013,6,182,Oregon
+WR, Chris Godwin,14,90,#11 WR,"6'1""",209,26,2/27/96,6,2017,3,84,Penn State
+WR, Mike Evans,13,90,#11 WR,"6'5""",231,28,8/21/93,9,2014,1,7,Texas A&M
+WR, Russell Gage,17,79,#44 WR,"6'0""",184,26,1/22/96,5,2018,6,194,LSU
+WR, Breshad Perriman,16,73,#92 WR,"6'2""",218,28,9/10/93,8,2015,1,26,Central Florida
+WR, Scotty Miller,10,72,#106 WR,"5'11""",174,24,7/31/97,4,2019,6,208,Bowling Green
+WR, Tyler Johnson,18,69,#132 WR,"6'2""",206,23,8/25/98,3,2020,5,161,Minnesota
+WR, Vyncint Smith,,67,#156 WR,"6'3""",202,25,6/9/96,5,2018,,,Limestone College
+WR, Austin Watkins Jr.,,67,#156 WR,"6'3""",210,24,2/16/98,1,2021,,,Alabama-Birmingham
+WR, Cyril Grayson Jr.,15,67,#156 WR,"5'9""",183,28,12/5/93,4,2017,,,LSU
+WR, Jaelon Darden,1,67,#156 WR,"5'8""",174,23,1/14/99,2,2021,4,129,North Texas
+WR, Travis Jonsen,,67,#156 WR,"6'4""",211,25,10/16/96,2,2020,,,Montana State
+TE, Cameron Brate,84,75,#29 TE,"6'5""",245,30,7/3/91,8,2014,,,Harvard
+TE, Codey McElroy,86,67,#59 TE,"6'6""",255,29,12/13/92,3,2018,,,Southeastern Oklahoma State
+C, Ryan Jensen,66,90,#2 C,"6'4""",319,30,5/27/91,9,2013,6,203,Colorado State-Pueblo
+G, Shaq Mason,,89,#2 G,"6'2""",310,28,8/28/93,8,2015,4,131,Georgia Tech
+G, Aaron Stinnie,64,67,#46 G,"6'3""",312,28,2/18/94,5,2018,,,James Madison
+G, John Molchon,75,67,#46 G,"6'5""",309,25,2/2/97,3,2020,,,Boise State
+G, Sadarius Hutcherson,61,67,#46 G,"6'4""",315,24,4/22/98,2,2021,,,South Carolina
+G, Nick Leverett,60,67,#46 G,"6'4""",310,25,1/11/97,2,2020,,,Rice
+OT, Tristan Wirfs,78,92,#5 OT,"6'5""",320,23,1/24/99,3,2020,1,13,Iowa
+OT, Donovan Smith,76,71,#46 OT,"6'6""",338,28,6/23/93,8,2015,2,34,Penn State
+OT, Fred Johnson,,67,#67 OT,"6'7""",326,24,6/5/97,4,2019,,,Florida
+OT, Robert Hainsey,70,67,#67 OT,"6'4""",302,23,8/12/98,2,2021,3,95,Notre Dame
+OT, Jonathan Hubbard,68,67,#67 OT,"6'5""",310,24,8/17/97,2,2020,,,Northwestern State (IA)
+OT, Josh Wells,72,67,#67 OT,"6'6""",306,31,2/14/91,8,2014,,,James Madison
+OT, Brandon Walton,73,67,#67 OT,"6'5""",300,24,3/18/98,2,2020,,,Florida Atlantic
+DL, Willington Previlon,94,67,#13 DL,"6'5""",287,24,5/19/97,2,2020,,,Rutgers
+DL, Benning Potoa'e,91,67,#13 DL,"6'3""",290,25,9/17/96,2,2020,,,Washington
+NT, Vita Vea,50,95,#1 NT,"6'4""",347,27,2/5/95,5,2018,1,12,Washington
+NT, Kobe Smith,71,67,#24 NT,"6'2""",312,23,6/23/98,2,2020,,,South Carolina
+DT, Deadrin Senat,,67,#56 DT,"6'1""",305,27,7/22/94,5,2018,3,90,South Florida
+DE, Rakeem Nunez-Roches,56,71,#70 DE,"6'2""",307,28,7/3/93,8,2015,6,217,Southern Mississippi
+DE, Patrick O'Connor,79,67,#100 DE,"6'4""",270,28,11/1/93,4,2017,7,250,Eastern Michigan
+LB, Cam Gill,49,67,#40 LB,"6'3""",240,24,12/14/97,3,2020,,,Wagner (NY)
+OLB, Shaquil Barrett,58,89,#7 OLB,"6'2""",250,29,11/17/92,9,2014,,,Colorado State
+OLB, Joe Tryon-Shoyinka,9,75,#28 OLB,"6'5""",262,22,4/30/99,2,2021,1,32,Washington
+OLB, Anthony Nelson,98,71,#47 OLB,"6'7""",271,25,3/4/97,4,2019,4,107,Iowa
+OLB, Elijah Ponder,44,67,#69 OLB,"6'3""",275,24,1/16/98,1,2021,,,Cincinnati
+ILB, Lavonte David,54,88,#5 ILB,"6'1""",233,32,1/23/90,11,2012,2,58,Nebraska
+ILB, Devin White,45,87,#6 ILB,"6'0""",237,24,2/17/98,4,2019,1,5,LSU
+ILB, Grant Stuard,48,67,#41 ILB,"5'11""",230,23,10/15/98,2,2021,7,259,Houston
+ILB, K.J. Britt,52,67,#41 ILB,"6'0""",235,22,6/4/99,2,2021,5,176,Auburn
+CB, Jamel Dean,35,80,#32 CB,"6'1""",206,25,10/15/96,4,2019,3,94,Auburn
+CB, Carlton Davis III,24,80,#32 CB,"6'1""",206,25,12/31/96,5,2018,2,63,Auburn
+CB, Sean Murphy-Bunting,23,76,#59 CB,"6'0""",195,24,6/19/97,4,2019,2,39,Central Michigan
+CB, Ross Cockrell,43,70,#113 CB,"6'0""",190,30,8/6/91,9,2014,4,109,Duke
+DB, Logan Ryan,26,82,#3 DB,"5'11""",195,31,2/9/91,10,2013,3,83,Rutgers
+DB, Dee Delaney,30,67,#10 DB,"5'11""",200,27,2/20/95,3,2018,,,Miami (FL)
+SS, Andrew Adams,26,72,#34 SS,"5'11""",205,29,10/28/92,7,2016,,,Connecticut
+FS, Mike Edwards,32,78,#12 FS,"5'10""",205,25,5/18/96,4,2019,3,99,Kentucky
+FS, Chris Cooper,39,67,#40 FS,"5'10""",202,28,3/17/94,2,2018,,,Stony Brook
+S, Antoine Winfield Jr.,31,83,#2 S,"5'9""",203,23,8/16/98,3,2020,2,45,Minnesota
+S, Keanu Neal,22,74,#10 S,"6'0""",211,26,7/26/95,7,2016,1,17,Florida
+S, Troy Warner,,67,#25 S,"6'1""",200,23,5/9/98,1,2021,,,Brigham Young
+LS, Zach Triner,97,,,"6'2""",247,31,1/30/91,4,2017,,,Assumption College
+K, Ryan Succop,3,73,#19 K,"6'3""",218,35,9/19/86,14,2009,7,256,South Carolina
+K, Jose Borregales,19,67,#33 K,"5'10""",207,24,12/15/97,1,2021,,,Miami (FL)
+P, Bradley Pinion,8,77,#14 P,"6'5""",240,27,6/1/94,8,2015,5,165,Clemson
